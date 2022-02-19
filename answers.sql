@@ -1,6 +1,6 @@
 -- 1. --
 
--- 61602987
+-- 61635416
 
 select count(1) from `red-height-339014.production.fact_trips`
 where extract(year from pickup_datetime) in (2019, 2020);
