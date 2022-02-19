@@ -23,4 +23,5 @@ models:
             - not_null:
                 severity: error
       
-      
+  - name: fhv_fact_trips
+    description: FHV Taxi trips
